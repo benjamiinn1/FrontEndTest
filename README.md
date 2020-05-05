@@ -1,6 +1,6 @@
 # Frontend_Comparison
 
-Todo list built in Vue, React, React Hooks, Angular
+Todo list built in Vue, React, React Hooks, Angular.
 
 ## requirements
 
